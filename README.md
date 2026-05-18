@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Trieu
 
-<!--
-**trieu123x/trieu123x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer / Computer Vision Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,linux,docker,git,postgres,fastapi,react&perline=5)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=trieu123x&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trieu123x&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Current Interests
+
+- 3D Object Detection
+- Deep Learning
+- YOLO Training
+- Distributed Training
+- Computer Vision
