@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Trieu 👋
-**AI Engineer · Computer Vision · Full-Stack Developer**
+# Trieu
+
+### AI Engineer · Computer Vision · Full-Stack Developer**
 
 Building end-to-end AI systems, real-time inference pipelines & scalable web apps.  
 Passionate about turning cutting-edge research into production-ready solutions.
-
+Focused on Computer Vision, Deep Learning, RAG systems, and AI deployment.
 ---
 ### Tech Stack
 
