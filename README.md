@@ -15,25 +15,21 @@ Building end-to-end AI systems, real-time inference pipelines & scalable web app
 
 ## ⚡ Tech Stack
 
-| Domain | Skills |
-|---|---|
-| **AI / ML** | Python · PyTorch · TensorFlow · YOLOv8 · OpenCV · ResNet50 |
-| **Backend** | FastAPI · Node.js · Express · Flask · PostgreSQL · pgvector |
-| **Frontend** | Next.js · React · Tailwind CSS |
-| **Infra** | Docker · Supabase · Git · Linux |
+**AI / ML**
 
----
+[![AI Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=8)](https://skillicons.dev)
 
-## 🔥 Featured Projects
+**Backend / API**
 
-### 🏥 K-Hospital — MediCare
-Smart healthcare platform with AI chatbot (RAG + Gemini), appointment booking, RBAC auth, real-time SSE streaming, and ETL analytics. Stack: FastAPI · Next.js · PostgreSQL · pgvector · JWT
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres&perline=8)](https://skillicons.dev)
 
-### 🗑️ Real-Time Garbage Classification
-End-to-end CV pipeline — YOLOv8 detection + ResNet50 classification with CUDA inference. Stack: PyTorch · OpenCV · Flask · Transfer Learning · Acc 84% · mAP@50 80%
+**Frontend**
 
-### 🛍️ E-Commerce Platform
-Full-stack shop with dynamic pricing, Stripe/VNPay payments, and Recharts revenue dashboard. Stack: Next.js · Node.js · Sequelize · PostgreSQL
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=8)](https://skillicons.dev)
+
+**Infra / Tools**
+
+[![Infra Skills](https://skillicons.dev/icons?i=docker,supabase,git,github,linux&perline=8)](https://skillicons.dev)
 
 ---
 
