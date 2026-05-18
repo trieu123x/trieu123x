@@ -1,19 +1,23 @@
-<div align="center">
+<div align="left">
+  
+# Trieu
+### AI Engineer · Computer Vision · Full-Stack Developer
 
-# Trieu 
-### AI Engineer · Computer Vision · Full-Stack Developer 
-
-Building production-ready AI systems, real-time inference pipelines, and scalable backend architectures. 
+Building production-ready AI systems, real-time inference pipelines, and scalable backend architectures.
 
 Focused on Computer Vision, Deep Learning, RAG systems, and AI deployment.
+
 ---
+
 ### Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,nodejs,postgres,react,nextjs,tailwind,docker,git)](https://skillicons.dev)
 
 ---
+
 ### GitHub Activity
 
-![Snake](https://raw.githubusercontent.com/trieu123x/trieu123x/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/trieu123x/trieu123x/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
+
