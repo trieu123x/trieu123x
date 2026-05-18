@@ -38,7 +38,8 @@ Building end-to-end AI systems, real-time inference pipelines & scalable web app
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trieu123x&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trieu123x&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trieu123x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 ![Snake](https://raw.githubusercontent.com/trieu123x/trieu123x/output/github-contribution-grid-snake-dark.svg)
 
