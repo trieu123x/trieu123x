@@ -1,182 +1,57 @@
-# Hi 👋 I'm Trieu
-
 <div align="center">
 
-AI Engineer • Computer Vision • Full-Stack Developer
+# Hi, I'm Trieu 👋
 
-Building end-to-end AI systems, real-time inference pipelines, and scalable web applications.
+**AI Engineer · Computer Vision · Full-Stack Developer**
+
+Building end-to-end AI systems, real-time inference pipelines & scalable web apps.
+
+[![Email](https://img.shields.io/badge/Email-trieudh14@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trieudh14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-trieu123x-181717?style=flat&logo=github)](https://github.com/trieu123x)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ Tech Stack
 
-- 🧠 AI Engineer focused on Computer Vision & Deep Learning
-- 👁️ Building real-time AI pipelines using YOLOv8, ResNet50, OpenCV
-- 🤖 Interested in RAG, LLM integration, vector search & AI agents
-- 🌐 Full-stack experience with Next.js, Node.js, FastAPI, PostgreSQL
-- 📊 Experience in ETL pipelines, analytics dashboards, and scalable backend systems
-- ⚡ Currently exploring 3D Vision & distributed training
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### AI / Machine Learning
-
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=8)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-### Backend / API
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=8)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=8)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-### Database / Infrastructure
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,docker,linux,git,github&perline=8)](https://skillicons.dev)
-
-</div>
+| Domain | Skills |
+|---|---|
+| **AI / ML** | Python · PyTorch · TensorFlow · YOLOv8 · OpenCV · ResNet50 |
+| **Backend** | FastAPI · Node.js · Express · Flask · PostgreSQL · pgvector |
+| **Frontend** | Next.js · React · Tailwind CSS |
+| **Infra** | Docker · Supabase · Git · Linux |
 
 ---
 
-# 🧠 Core Skills
+## 🔥 Featured Projects
 
-```txt
-• Deep Learning & Transfer Learning
-• Object Detection (YOLOv8)
-• Image Classification
-• Computer Vision Pipelines
-• RAG Architecture
-• Vector Search (pgvector)
-• REST API Development
-• JWT Authentication
-• ETL Data Pipeline
-• Database Design
-• Full-Stack Development
-• Real-time Streaming (SSE)
-• Analytics Dashboard
-• Payment Gateway Integration
-• Distributed Training
-```
+### 🏥 K-Hospital — MediCare
+Smart healthcare platform with AI chatbot (RAG + Gemini), appointment booking, RBAC auth, real-time SSE streaming, and ETL analytics. Stack: FastAPI · Next.js · PostgreSQL · pgvector · JWT
+
+### 🗑️ Real-Time Garbage Classification
+End-to-end CV pipeline — YOLOv8 detection + ResNet50 classification with CUDA inference. Stack: PyTorch · OpenCV · Flask · Transfer Learning · Acc 84% · mAP@50 80%
+
+### 🛍️ E-Commerce Platform
+Full-stack shop with dynamic pricing, Stripe/VNPay payments, and Recharts revenue dashboard. Stack: Next.js · Node.js · Sequelize · PostgreSQL
 
 ---
 
-# 🔥 Featured Projects
-
-## 🗑️ Real-Time Garbage Classification System
-
-AI-powered waste detection pipeline using:
-- YOLOv8
-- ResNet50
-- Flask API
-- OpenCV
-- PyTorch
-
-### Highlights
-- Real-time object detection
-- Multi-stage CV pipeline
-- CUDA inference
-- REST API deployment
-- Transfer learning
-
----
-
-## 🏥 K-Hospital — MediCare
-
-Smart healthcare platform with:
-- AI Chatbot (RAG + Gemini)
-- Appointment booking
-- ETL analytics pipeline
-- JWT auth system
-- PostgreSQL + pgvector
-
-### Highlights
-- SSE real-time streaming
-- Vector search
-- FastAPI AI service
-- RBAC authorization
-- Analytics dashboard
-
----
-
-## 🛍️ E-Commerce Platform
-
-Full-stack e-commerce system featuring:
-- Dynamic pricing
-- Revenue analytics
-- Payment integration
-- Inventory management
-- Admin dashboard
-
-### Highlights
-- Sequelize ORM
-- Transaction management
-- Stripe + VNPay
-- Recharts analytics
-- Next.js App Router
-
----
-
-# 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trieu123x&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trieu123x&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/trieu123x/trieu123x/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/trieu123x/trieu123x/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 🎯 Current Focus
-
-- 👁️ Computer Vision
-- 🤖 LLM & RAG Systems
-- ⚡ Real-time AI Inference
-- 🧠 3D Object Detection
-- 📊 AI-powered Analytics
-- 🚀 MLOps & Deployment
-
----
-
-# 📫 Contact
-
-- 📧 trieudh14@gmail.com
-- 💻 GitHub: https://github.com/trieu123x
-
----
-
 <div align="center">
 
-### ⚡ “chasing dream”
+*"chasing dream"* ⚡
 
 </div>
