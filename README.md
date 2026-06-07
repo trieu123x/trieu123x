@@ -1,7 +1,7 @@
 <div align="left">
   
 # Trieu
-### AI Engineer · Computer Vision · Full-Stack Developer
+### AI Engineer · Full-Stack Developer
 
 Building production-ready AI systems, real-time inference pipelines, and scalable backend architectures.
 
